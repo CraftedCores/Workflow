@@ -1,5 +1,4 @@
 # Workflow (Canvas Extension)
-Inline-style: 
 ![](https://github.com/CraftedCores/Workflow/blob/main/Workflow.png)
 
 
