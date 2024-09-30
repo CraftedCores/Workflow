@@ -1,5 +1,7 @@
 # Workflow (Canvas Extension)
-([http://url/to/img.png](https://github.com/CraftedCores/Workflow/blob/main/Workflow.png))
+Inline-style: 
+![alt text](https://github.com/CraftedCores/Workflow/blob/main/Workflow.png)
+
 
 ## Team Members
 Owen
