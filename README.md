@@ -1,4 +1,5 @@
 # Workflow (Canvas Extension)
+![alt text](http://url/to/img.png)
 
 ## Team Members
 Owen
